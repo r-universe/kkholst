@@ -8,6 +8,11 @@
 	url = https://github.com/kkholst/lava
 	shallow = true
 	registered = true
+[submodule "mets"]
+	path = mets
+	url = https://github.com/kkholst/mets
+	shallow = true
+	registered = true
 [submodule "targeted"]
 	path = targeted
 	url = https://github.com/kkholst/targeted
