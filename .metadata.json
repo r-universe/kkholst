@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "mets",
-    "oncran": true
-  },
-  {
     "package": "targeted",
     "oncran": true
   }
