@@ -1,10 +1,10 @@
 [
   {
-    "package": "mets",
+    "package": "lava",
     "oncran": true
   },
   {
-    "package": "lava",
+    "package": "mets",
     "oncran": true
   },
   {
