@@ -8,6 +8,10 @@
 [submodule "mets"]
 	path = mets
 	url = https://github.com/kkholst/mets
+[submodule "survSuperLearner"]
+	path = survSuperLearner
+	url = https://github.com/tedwestling/survSuperLearner
+	registered = false
 [submodule "targeted"]
 	path = targeted
 	url = https://github.com/kkholst/targeted
